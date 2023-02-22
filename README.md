@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dulkifal_" target="blank"><img src="https://img.shields.io/twitter/follow/dulkifal_?logo=twitter&style=for-the-badge" alt="dulkifal_" /></a> </p>
 
-- 🔭 I’m currently working on [fiqhushafi](https://fuqhushafi.vercel.app)
+- 🔭 I’m currently working on [project](https://al-fiqh.vercel.app)
 
 - 🌱 I’m currently learning **Tailwind, Next js**
 
