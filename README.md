@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dulkifal_" target="blank"><img src="https://img.shields.io/twitter/follow/dulkifal_?logo=twitter&style=for-the-badge" alt="dulkifal_" /></a> </p>
 
-- 🔭 I’m currently working on [project](https://al-fiqh.vercel.app)
+- 🔭 I’m currently working on [My PG project for Darul-huda Islamic University ](https://al-fiqh.vercel.app)
 
 - 🌱 I’m currently learning **Tailwind, Next js**
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **react, next, tailwind**
 
-- 📫 How to reach me **WhatsApp to +91 7994636420**
+- 📫 How to reach me **WhatsApp to +91 8714089027**
 
 - ⚡ Fun fact **I am learning from my mistakes**
 
