@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/dulkifal_" target="blank"><img src="https://img.shields.io/twitter/follow/dulkifal_?logo=twitter&style=for-the-badge" alt="dulkifal_" /></a> </p>
 
-- 🔭 I’m currently working on [My PG project for Darul-huda Islamic University ](https://al-fiqh.vercel.app)
+- 🔭 I’m currently working on [Curenet an hospital management Wep ](https://dell1.dev.curenet.in/)
 
-- 🌱 I’m currently learning **Tailwind, Next js**
+- 🌱 I’m currently learning **Redux, React js**
 
-- 👯 I’m looking to collaborate on **Next js projects**
+- 👯 I’m looking to collaborate on **React js projects**
 
-- 👨‍💻 All of my projects are available at [https://dulkifal.tech](https://dulkifal.tech)
+- 👨‍💻 All of my projects are available at [https://dulkifal.github.io](https://dulkifal.github.io)
 
-- 💬 Ask me about **react, next, tailwind**
+- 💬 Ask me about **react, redux, network**
 
-- 📫 How to reach me **WhatsApp to +91 8714089027**
+- 📫 How to reach me **WhatsApp to +91 8714089827**
 
 - ⚡ Fun fact **I am learning from my mistakes**
 
@@ -42,12 +42,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... NEXT JS PROJECT 
-- 🌱 I’m currently learning ... JAVASCRIPT 
+- 🔭 I’m currently working on ... React JS PROJECT 
+- 🌱 I’m currently learning ... Rust 
 - 👯 I’m looking to collaborate on ... TEAMS 
-- 🤔 I’m looking for help with ... FLUTTER
+- 🤔 I’m looking for help with ... Redux
 - 💬 Ask me about ... MY CODE
-- 📫 How to reach me: ... WHATSAPP OR TELEGRAM IN THIS NUMBER 0917994636420
+- 📫 How to reach me: ... WHATSAPP OR TELEGRAM IN THIS NUMBER 0918714089827
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... LEARING FROM MISTAKES 
 -->
