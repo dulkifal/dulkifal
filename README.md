@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/dulkifal_" target="blank"><img src="https://img.shields.io/twitter/follow/dulkifal_?logo=twitter&style=for-the-badge" alt="dulkifal_" /></a> </p>
 
-- 🔭 I’m currently working on [Curenet an hospital management Wep ](https://dell1.dev.curenet.in/)
+- 🔭 I’m currently working on [ErpNext , Freappe ](https://github.com/frappe/)
 
-- 🌱 I’m currently learning **Redux, React js**
+- 🌱 I’m currently learning **Python, Frappe**
 
-- 👯 I’m looking to collaborate on **React js projects**
+- 👯 I’m looking to collaborate on **Erp projects**
 
 - 👨‍💻 All of my projects are available at [https://dulkifal.github.io](https://dulkifal.github.io)
 
